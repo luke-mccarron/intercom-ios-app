@@ -50,6 +50,18 @@
             ReferencedContainer = "container:Sample-SwiftUI.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <EnvironmentVariables>
+         <EnvironmentVariable
+            key = "INTERCOM_API_KEY"
+            value = "ios_sdk-cb3dff6b68e23fe52f1fa77ec7deb33ad432f968"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+         <EnvironmentVariable
+            key = "INTERCOM_APP_ID"
+            value = "uv4d1sr4"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+      </EnvironmentVariables>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"

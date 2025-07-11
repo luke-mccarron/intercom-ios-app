@@ -18,6 +18,7 @@
 		4C26B6242507E3AF00124338 /* ViewModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C26B6232507E3AF00124338 /* ViewModifiers.swift */; };
 		4C26B6272507F92500124338 /* LoggedInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C26B6262507F92500124338 /* LoggedInView.swift */; };
 		4C26B6292507F99400124338 /* LoggedOutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C26B6282507F99400124338 /* LoggedOutView.swift */; };
+		A807B27C2E219B52002B2D71 /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = A807B27B2E219B52002B2D71 /* Config.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -47,6 +48,7 @@
 		4C26B6232507E3AF00124338 /* ViewModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifiers.swift; sourceTree = "<group>"; };
 		4C26B6262507F92500124338 /* LoggedInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoggedInView.swift; sourceTree = "<group>"; };
 		4C26B6282507F99400124338 /* LoggedOutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoggedOutView.swift; sourceTree = "<group>"; };
+		A807B27B2E219B52002B2D71 /* Config.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Config.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		4C26B5FC2506838F00124338 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
+				A807B27B2E219B52002B2D71 /* Config.swift */,
 				4C26B5F32506838E00124338 /* Sample_SwiftUIApp.swift */,
 				4C26B619250688C500124338 /* AppDelegate.swift */,
 				4C26B61B25068A2F00124338 /* SceneDelegate.swift */,
@@ -206,6 +209,7 @@
 				4C26B6292507F99400124338 /* LoggedOutView.swift in Sources */,
 				4C26B6222507E27100124338 /* StylizedButton.swift in Sources */,
 				4C26B6082506838F00124338 /* ContentView.swift in Sources */,
+				A807B27C2E219B52002B2D71 /* Config.swift in Sources */,
 				4C26B6062506838F00124338 /* Sample_SwiftUIApp.swift in Sources */,
 				4C26B61C25068A2F00124338 /* SceneDelegate.swift in Sources */,
 			);

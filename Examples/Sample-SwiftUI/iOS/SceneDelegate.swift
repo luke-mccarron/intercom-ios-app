@@ -8,9 +8,9 @@
 import UIKit
 import Intercom
 
-let INTERCOM_APP_ID = "uv4d1sr4"
-let INTERCOM_API_KEY = "dG9rOjI5Yzg2NmMyXzA0ZDhfNGMyYl85M2VlX2YwZTM5ZTM4Y2I2NzoxOjA="
-let emailKey = "email"
+let INTERCOM_APP_ID = IntercomConfig.appId  // Configuration via environment variables
+let INTERCOM_API_KEY = IntercomConfig.apiKey// Configuration via environment variables
+let emailKey = "luke.mccarron@intercom.io"
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
